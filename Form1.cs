@@ -6,7 +6,7 @@ namespace Proyecto
         {
             InitializeComponent();
 
-           // hhh
+           // hhh nhhh
         }
     }
 }
