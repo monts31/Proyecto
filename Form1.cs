@@ -5,7 +5,7 @@ namespace Proyecto
         public Form1()
         {
             InitializeComponent();
-            jjii
+            //jjii
            // hhh nhhh
         }
     }
