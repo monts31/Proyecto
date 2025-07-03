@@ -6,6 +6,7 @@ namespace Proyecto
         {
             InitializeComponent();
 
+
            
         }
 
@@ -16,6 +17,7 @@ namespace Proyecto
                 textBox1.Text = "OK";
             }
           
+
         }
     }
 }
