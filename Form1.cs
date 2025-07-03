@@ -6,7 +6,14 @@ namespace Proyecto
         {
             InitializeComponent();
            
-           // hhh nhhh
+        }
+
+        private void btnValidar_Click(object sender, EventArgs e)
+        {
+            if (txtQR.Text.Equals("hola"))
+            {
+                textBox1.Text = "OK";
+            }
         }
     }
 }
