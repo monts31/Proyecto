@@ -5,6 +5,7 @@ namespace Proyecto
         public Form1()
         {
             InitializeComponent();
+<<<<<<< HEAD
 
 
            
@@ -18,6 +19,10 @@ namespace Proyecto
             }
           
 
+=======
+            //jjii
+           // hhh nhhh
+>>>>>>> 3c1050d25e916d85916aa4377fafe1e1ab9b1c0b
         }
     }
 }
